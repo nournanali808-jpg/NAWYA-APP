@@ -3,7 +3,7 @@ import "./globals.css";
 import Link from "next/link";
 
 export const metadata = {
-  title: "منصة نواعية | التعليم الإلكتروني",
+  title: "منصة نوعية | التعليم الإلكتروني",
   description: "منصة تعليمية متخصصة في تبسيط مناهج العلوم باستخدام أحدث التقنيات التربوية",
 };
 
