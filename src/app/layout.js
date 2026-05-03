@@ -3,7 +3,7 @@ import "./globals.css";
 import Link from "next/link";
 
 export const metadata = {
-  title: "منصة نوعية | التعليم الإلكتروني",
+  title: "منصة تعلمية | التعليم الإلكتروني",
   description: "منصة تعليمية متخصصة في تبسيط مناهج العلوم باستخدام أحدث التقنيات التربوية",
 };
 
@@ -29,7 +29,7 @@ export default function RootLayout({ children }) {
                   <Link href="/" className="text-slate-600 hover:text-blue-600 transition-colors">الرئيسية</Link>
                   <Link href="/unit1" className="text-slate-600 hover:text-blue-600 transition-colors">الدروس</Link>
                   <Link href="/exam" className="text-slate-600 hover:text-blue-600 transition-colors">الاختبارات</Link>
-                  <Link href="/about" className="text-slate-600 hover:text-blue-600 transition-colors">عن المنصة</Link>
+              
                 </div>
               </div>
 

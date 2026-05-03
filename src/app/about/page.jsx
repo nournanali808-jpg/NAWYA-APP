@@ -67,7 +67,7 @@ export default function AboutPage() {
       {/* Statistics or Footer Note */}
       <section className="bg-white border-t border-gray-200 py-12 px-6">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-2xl font-bold text-gray-900 mb-8">لماذا تختار منصة نوعية؟</h2>
+          <h2 className="text-2xl font-bold text-gray-900 mb-8">لماذا تختار منصة التعليمية؟</h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             <div>
               <div className="text-3xl font-black text-indigo-600">100%</div>
